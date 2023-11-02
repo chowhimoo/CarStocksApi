@@ -7,6 +7,11 @@ The Car Stocks API is a .NET 6 web application that allows dealers to manage the
 - [Docker](https://www.docker.com/get-started)
 - A code editor (e.g., Visual Studio, Visual Studio Code)
 
+Run
+dotnet run
+and the go to 
+https://localhost:[port]/swagger/index.html
+
 
 User Registration
 To access the API, users need to register an account. The registration requires the following information:
